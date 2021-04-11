@@ -21,9 +21,8 @@ The model is trained for 30 epochs and runs at 63.72 percent accuracy.
 
   
 
- 1. First Set absolute path of
-    fer3.h5,fer3.json,haarcascade_frontalface_default.xml in   
-    VideoTester.ipynb & fer2013.csv in Emotion_Analysis.ipynb
+ 1. First Set absolute path of fer3.h5, fer3.json, haarcascade_frontalface_default.xml in   
+    VideoTester.ipynb  &  fer2013.csv in Emotion_Analysis.ipynb
 
  
    
